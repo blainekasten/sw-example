@@ -1,0 +1,2683 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>NebraskaJS</title>
+	<link href="http://nebraskajs.com/atom.xml" rel="self"/>
+	<link href="http://nebraskajs.com/"/>
+	<updated>2015-02-06T10:54:43-06:00</updated>
+	<id>http://nebraskajs.com/</id>
+	<author>
+		<name>NebraskaJS</name>
+		<email>nebraskajs@zachleat.com</email>
+	</author>
+
+	
+	<entry>
+		<title>Performance and Responsive Design</title>
+		<link href="http://nebraskajs.com/2015/performance-and-responsive-design/"/>
+		<updated>2015-01-15T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2015/performance-and-responsive-design</id>
+		<content type="html">&lt;h1&gt;Performance and Responsive Design&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Zach Leatherman&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;zachleat count-5&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/zachleat/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/e1899004c71c7043343196103e210be3?d=https%3A%2F%2Fidenticons.github.com%2F67b46df8fd1c23206e0572850ac213b5.png&amp;r=x&amp;s=80&quot; alt=&quot;Zach Leatherman&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Zach Leatherman&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/zachleat/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/zachleat/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://www.zachleat.com/web/&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/r72A_pjpBpY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Modern Dojo</title>
+		<link href="http://nebraskajs.com/2015/modern-dojo/"/>
+		<updated>2015-01-15T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2015/modern-dojo</id>
+		<content type="html">&lt;h1&gt;Modern Dojo&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Nick Nisi&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;nicknisi count-Infinity&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/nicknisi/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/202775f26bf746fee64e08d58645f475?d=https%3A%2F%2Fidenticons.github.com%2F9cd91022d08b588b0a6e468a436bf56b.png&amp;r=x&amp;s=80&quot; alt=&quot;Nick Nisi&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Nick Nisi&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/nicknisi/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/nicknisi/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://nicknisi.com&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/__7Fg1h_N6w&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>TypeScript</title>
+		<link href="http://nebraskajs.com/2015/typescript/"/>
+		<updated>2015-01-01T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2015/typescript</id>
+		<content type="html">&lt;h1&gt;TypeScript&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Nick Nisi&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;nicknisi count-Infinity&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/nicknisi/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/202775f26bf746fee64e08d58645f475?d=https%3A%2F%2Fidenticons.github.com%2F9cd91022d08b588b0a6e468a436bf56b.png&amp;r=x&amp;s=80&quot; alt=&quot;Nick Nisi&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Nick Nisi&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/nicknisi/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/nicknisi/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://nicknisi.com&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/nLCedy68Qf4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.typescriptlang.org/&quot;&gt;typescriptlang.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://www.youtube.com/watch?v=nLCedy68Qf4&quot;&gt;NebraskaJS: TypeScript with Nick Nisi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/205949422/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;View &lt;a href=&quot;https://www.youtube.com/playlist?list=PLCCU6TIglvLFFMmgtEU4CVKgAFMYovt9X&quot;&gt;all videos from Lightning Round III&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Protractor</title>
+		<link href="http://nebraskajs.com/2015/protractor/"/>
+		<updated>2015-01-01T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2015/protractor</id>
+		<content type="html">&lt;h1&gt;Protractor&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Derek Eskens&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;snekse count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/snekse/&quot;&gt;
+
+            &lt;img src=&quot;https://avatars.githubusercontent.com/u/1981071?v=3&amp;s=80&quot; alt=&quot;Derek E&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Derek E&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/snekse/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/snekse/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/2_sp6CHs1qY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://slides.com/derekeskens/meet-protractor/#/&quot;&gt;Derek’s Slides on slides.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://angular.github.io/protractor/&quot;&gt;Official web site for Protractor, End to End Testing for AngularJS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://www.youtube.com/watch?v=2_sp6CHs1qY&quot;&gt;NebraskaJS: Protractor with Derek Eskens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/205949422/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;View &lt;a href=&quot;https://www.youtube.com/playlist?list=PLCCU6TIglvLFFMmgtEU4CVKgAFMYovt9X&quot;&gt;all videos from Lightning Round III&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Ionic Plugins</title>
+		<link href="http://nebraskajs.com/2015/ionic-plugins/"/>
+		<updated>2015-01-01T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2015/ionic-plugins</id>
+		<content type="html">&lt;h1&gt;Ionic Plugins&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Nick Wertzberger&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;nwertzberger count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/nwertzberger/&quot;&gt;
+
+            &lt;img src=&quot;https://avatars.githubusercontent.com/u/360347?v=3&amp;s=80&quot; alt=&quot;Nick Wertzberger&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Nick Wertzberger&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/nwertzberger/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/rannick/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://www.ideaheap.com&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/9OS2Fehtx5w&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://ngcordova.com/&quot;&gt;ngCordova&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://www.youtube.com/watch?v=9OS2Fehtx5w&quot;&gt;NebraskaJS: Ionic Plugins with Nick Wertzberger&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/205949422/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;View &lt;a href=&quot;https://www.youtube.com/playlist?list=PLCCU6TIglvLFFMmgtEU4CVKgAFMYovt9X&quot;&gt;all videos from Lightning Round III&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>fontfamily.io</title>
+		<link href="http://nebraskajs.com/2015/fontfamilyio/"/>
+		<updated>2015-01-01T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2015/fontfamilyio</id>
+		<content type="html">&lt;h1&gt;fontfamily.io&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Zach Leatherman&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;zachleat count-5&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/zachleat/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/e1899004c71c7043343196103e210be3?d=https%3A%2F%2Fidenticons.github.com%2F67b46df8fd1c23206e0572850ac213b5.png&amp;r=x&amp;s=80&quot; alt=&quot;Zach Leatherman&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Zach Leatherman&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/zachleat/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/zachleat/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://www.zachleat.com/web/&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/LbCT38Idhyk&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/zachleat/how-and-why-i-built-fontfamily-dot-io&quot;&gt;Slides on SpeakerDeck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://fontfamily.io&quot;&gt;fontfamily.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.zachleat.com/web/font-family-reunion/&quot;&gt;A Font Family Reunion—zachleat.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://www.youtube.com/watch?v=LbCT38Idhyk&quot;&gt;NebraskaJS: fontfamily.io with Zach Leatherman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/205949422/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;View &lt;a href=&quot;https://www.youtube.com/playlist?list=PLCCU6TIglvLFFMmgtEU4CVKgAFMYovt9X&quot;&gt;all videos from Lightning Round III&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Transducers Explained</title>
+		<link href="http://nebraskajs.com/2014/transducers/"/>
+		<updated>2014-12-18T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2014/transducers</id>
+		<content type="html">&lt;h1&gt;Transducers Explained&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Kevin Beaty&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;kevinbeaty count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/kevinbeaty/&quot;&gt;
+
+            &lt;img src=&quot;https://avatars.githubusercontent.com/u/522231?v=3&amp;s=80&quot; alt=&quot;Kevin Beaty&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Kevin Beaty&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/kevinbeaty/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/simplectic/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://simplectic.com&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/IvECDyVmCI4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Service Worker</title>
+		<link href="http://nebraskajs.com/2014/service-worker/"/>
+		<updated>2014-12-18T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2014/service-worker</id>
+		<content type="html">&lt;h1&gt;Service Worker&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Blaine Kasten&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;blainekasten count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/blainekasten/&quot;&gt;
+
+            &lt;img src=&quot;https://avatars.githubusercontent.com/u/2916023?v=3&amp;s=80&quot; alt=&quot;Blaine Kasten&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Blaine Kasten&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/blainekasten/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/blainekasten/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/6Tys1wmlGI0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>An Introduction to Web Components</title>
+		<link href="http://nebraskajs.com/2014/web-components/"/>
+		<updated>2014-11-20T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2014/web-components</id>
+		<content type="html">&lt;h1&gt;An Introduction to Web Components&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Caleb Cassel&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;CalebCassel count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/CalebCassel/&quot;&gt;
+
+            &lt;img src=&quot;https://avatars.githubusercontent.com/u/4381058?v=3&amp;s=80&quot; alt=&quot;Caleb Cassel&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Caleb Cassel&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/CalebCassel/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/CalebCassel/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/IChYY11sy68&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Real Time Monitoring with Canvas</title>
+		<link href="http://nebraskajs.com/2014/real-time-monitoring/"/>
+		<updated>2014-11-20T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2014/real-time-monitoring</id>
+		<content type="html">&lt;h1&gt;Real Time Monitoring with Canvas&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Rob Hruska&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;robhruska count-2&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/robhruska/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/ffffa52ae8108fdeb2559d804051556e?d=https%3A%2F%2Fidenticons.github.com%2F74e6b092d4b5aed7bf888fc4bc191d5d.png&amp;r=x&amp;s=80&quot; alt=&quot;Rob Hruska&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Rob Hruska&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/robhruska/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/robhruska/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://www.robhruska.com&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/_5j2yE7JGLY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>JSON Validation (miscue.js)</title>
+		<link href="http://nebraskajs.com/2014/json-validation/"/>
+		<updated>2014-11-20T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2014/json-validation</id>
+		<content type="html">&lt;h1&gt;JSON Validation (miscue.js)&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Matt Fenwick&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;mattfenwick count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/mattfenwick/&quot;&gt;
+
+            &lt;img src=&quot;https://avatars.githubusercontent.com/u/952655?v=3&amp;s=80&quot; alt=&quot;Matt Fenwick&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Matt Fenwick&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/mattfenwick/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/mfenwick100/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/BA9m7moNHQ0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Buying Fake Cats with Fake Bitcoins</title>
+		<link href="http://nebraskajs.com/2014/bitcoin-cats/"/>
+		<updated>2014-11-20T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2014/bitcoin-cats</id>
+		<content type="html">&lt;h1&gt;Buying Fake Cats with Fake Bitcoins&lt;/h1&gt;
+
+&lt;h2&gt;Presented by JP Richardson&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;jprichardson count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/jprichardson/&quot;&gt;
+
+            &lt;img src=&quot;https://avatars.githubusercontent.com/u/150063?v=3&amp;s=80&quot; alt=&quot;JP Richardson&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;JP Richardson&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/jprichardson/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/jprichardson/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://procbits.com/pages/about&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/eLe3T6Izynw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Angular Directives</title>
+		<link href="http://nebraskajs.com/2014/angular-directives/"/>
+		<updated>2014-11-20T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2014/angular-directives</id>
+		<content type="html">&lt;h1&gt;Angular Directives&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Bruce Coddington&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;BruceCoddington count-2&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/BruceCoddington/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/4a2cbfe1751d189b097cb7000edbb142?d=https%3A%2F%2Fidenticons.github.com%2Faae8a23a0d1f5b5054c732e86cecc4b6.png&amp;r=x&amp;s=80&quot; alt=&quot;Bruce Coddington&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Bruce Coddington&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/BruceCoddington/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/BruceCoddington/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/VbebgG2ZFcQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>fightcodegame Tank Battle 2014</title>
+		<link href="http://nebraskajs.com/2014/fightcodegame-two/"/>
+		<updated>2014-11-12T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2014/fightcodegame-two</id>
+		<content type="html">&lt;h1&gt;fightcodegame.com Tank Battle&lt;/h1&gt;
+
+&lt;h2&gt;Administrated by Nick Nisi and Zach Leatherman&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;nicknisi count-Infinity&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/nicknisi/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/202775f26bf746fee64e08d58645f475?d=https%3A%2F%2Fidenticons.github.com%2F9cd91022d08b588b0a6e468a436bf56b.png&amp;r=x&amp;s=80&quot; alt=&quot;Nick Nisi&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Nick Nisi&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/nicknisi/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/nicknisi/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://nicknisi.com&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;zachleat count-5&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/zachleat/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/e1899004c71c7043343196103e210be3?d=https%3A%2F%2Fidenticons.github.com%2F67b46df8fd1c23206e0572850ac213b5.png&amp;r=x&amp;s=80&quot; alt=&quot;Zach Leatherman&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Zach Leatherman&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/zachleat/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/zachleat/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://www.zachleat.com/web/&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;p&gt;History is written by the winner. To the victor go the spoils—and at NebraskaJS, both of these were true as our fellow developers, our story's heroes, climbed into the web interface of their mechanized virtual killing machines to wage war in the great equalizer of combat.&lt;/p&gt;
+
+&lt;h2&gt;View the &lt;a href=&quot;http://challonge.com/nejs2/standings&quot;&gt;Tournament Brackets&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2&gt;Grand Prize&lt;/h2&gt;
+
+&lt;p&gt;The winners received a very cool Arduino kit and a sweet tank trophy.&lt;/p&gt;
+
+&lt;h2&gt;The Final Match&lt;/h2&gt;
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/4XNNgj3ksL0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;The Winners: Joseph Maxwell and &lt;a href=&quot;https://twitter.com/mattdsteele&quot;&gt;Matt Steele&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://flic.kr/p/pKSMp5&quot; title=&quot;NebraskaJS FightCodeGame Tank Battle August 2013 by zachleat, on Flickr&quot;&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7543/15592723310_bafa6cab46_z.jpg&quot; alt=&quot;NebraskaJS FightCodeGame Tank Battle August 2014&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://challonge.com/nejs2/standings&quot;&gt;Tournament Brackets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=4XNNgj3ksL0&quot;&gt;Watch the finals on YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.flickr.com/photos/zachleat/sets/72157648851537819/&quot;&gt;See all the photos on Flickr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/195183412/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>NebraskaJS is coming to Lincoln</title>
+		<link href="http://nebraskajs.com/2014/nebraskajs-lincoln/"/>
+		<updated>2014-10-08T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2014/nebraskajs-lincoln</id>
+		<content type="html">&lt;h1&gt;NebraskaJS is coming to Lincoln&lt;/h1&gt;
+
+&lt;p&gt;Nebraska has always had great web developers in our state. But our talent is often underpromoted on a wider stage, mostly because many here do little to no self promotion! This is what NebraskaJS is trying to change. Witnessing so many amazingly talented people come together to share ideas in Omaha has been incredibly humbling. But of course Nebraska isn't just Omaha. There is a thriving JavaScript ecosystem just waiting to be discovered in Lincoln as well.&lt;/p&gt;
+
+&lt;p&gt;With that in mind, NebraskaJS is incredibly excited to announce that &lt;a href=&quot;https://twitter.com/blainekasten&quot;&gt;Blaine Kasten&lt;/a&gt; is opening a new branch of NebraskaJS in Lincoln!&lt;/p&gt;
+
+&lt;p&gt;The first &lt;a href=&quot;http://www.meetup.com/nebraskajs/events/212329302/&quot;&gt;NebraskaJS Lincoln meetup will be November 20th&lt;/a&gt; at Hudl and will be lightning talks! **If you would like to help the NebraskaJS community and present on a topic, please send us a tweet (&lt;a href=&quot;twitter.com/nebraskajs&quot;&gt;@nebraskajs&lt;/a&gt;) or post a comment on the meetup page!&lt;/p&gt;
+
+&lt;p&gt;We hope these two branches of NebraskaJS will continue to highlight the amazing passion of Nebraska programmers and compound the growth of NebraskaJS as a whole.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Getting prepared for a new adventure. &lt;a href=&quot;https://twitter.com/nebraskajs&quot;&gt;@nebraskajs&lt;/a&gt; &lt;a href=&quot;http://t.co/ya96sSO6Ag&quot;&gt;pic.twitter.com/ya96sSO6Ag&lt;/a&gt;&lt;/p&gt;&amp;mdash; Blaine Kasten (@blainekasten) &lt;a href=&quot;https://twitter.com/blainekasten/status/520022658629369856&quot;&gt;October 9, 2014&lt;/a&gt;&lt;/blockquote&gt;
+
+
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Intro to SVG a.k.a. This Presentation is a Thing That is Happening, I Guess</title>
+		<link href="http://nebraskajs.com/2014/svg/"/>
+		<updated>2014-08-17T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2014/svg</id>
+		<content type="html">&lt;h1&gt;Intro to SVG a.k.a. This Presentation is a Thing That is Happening, I Guess&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Cara Heacock&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;CaraHeacock count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/CaraHeacock/&quot;&gt;
+
+            &lt;img src=&quot;https://avatars.githubusercontent.com/u/6446911?&amp;s=80&quot; alt=&quot;Cara&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Cara&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/CaraHeacock/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/CaraHeacock/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://caraheacock.github.io/&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/J88cOi92whU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://lydiab.herokuapp.com/&quot;&gt;Butterflies Game that inspired the Talk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Caraheacock/butterflies&quot;&gt;Source code for Butterflies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/nebraskajs/svgs-with-cara-heacock&quot;&gt;Slides on Speakerdeck&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://www.youtube.com/watch?v=J88cOi92whU&quot;&gt;NebraskaJS: Cara Heacock on SVG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/181849992/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;View &lt;a href=&quot;http://www.youtube.com/playlist?list=PLCCU6TIglvLHdiJPU2_qPF0Z2y8qMqq56&quot;&gt;all videos from Lightning Round II&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>The Mysterious Shadow DOM</title>
+		<link href="http://nebraskajs.com/2014/shadow-dom/"/>
+		<updated>2014-08-17T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2014/shadow-dom</id>
+		<content type="html">&lt;h1&gt;The Mysterious Shadow DOM&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Derek Homan&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;dhoman count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/dhoman/&quot;&gt;
+
+            &lt;img src=&quot;https://avatars.githubusercontent.com/u/205598?&amp;s=80&quot; alt=&quot;&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/dhoman/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/derekhoman/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/47MShEoKQO4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/decks/shadow-dom/&quot;&gt;Slides on nebraskajs.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://www.youtube.com/watch?v=47MShEoKQO4&quot;&gt;NebraskaJS: The Mysterious Shadow DOM with Derek Homan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/181849992/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;View &lt;a href=&quot;http://www.youtube.com/playlist?list=PLCCU6TIglvLHdiJPU2_qPF0Z2y8qMqq56&quot;&gt;all videos from Lightning Round II&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>The Maker Movement</title>
+		<link href="http://nebraskajs.com/2014/maker-movement/"/>
+		<updated>2014-08-17T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2014/maker-movement</id>
+		<content type="html">&lt;h1&gt;The Maker Movement&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Shelly Lynn Xiong&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;shellylynnxiong count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/shellylynnxiong/&quot;&gt;
+
+            &lt;img src=&quot;https://avatars.githubusercontent.com/u/7191215?&amp;s=80&quot; alt=&quot;&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/shellylynnxiong/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/shellylynnxiong/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/VSB-pZ_bw3s&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/nebraskajs/the-maker-movement-with-shelly-lynn-xiong&quot;&gt;Slides on Speakerdeck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.omahamakerfaire.com/&quot;&gt;Omaha Mini Maker Faire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Editors Note&lt;/em&gt;: Also keep an eye out for another upcoming &lt;a href=&quot;How%20Conf&quot;&gt;http://www.howconf.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://www.youtube.com/watch?v=VSB-pZ_bw3s&quot;&gt;NebraskaJS: Shelly Lynn Xiong on The Maker Movement&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/181849992/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;View &lt;a href=&quot;http://www.youtube.com/playlist?list=PLCCU6TIglvLHdiJPU2_qPF0Z2y8qMqq56&quot;&gt;all videos from Lightning Round II&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Loki at the Marvel API</title>
+		<link href="http://nebraskajs.com/2014/loki-marvel-api/"/>
+		<updated>2014-08-17T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2014/loki-marvel-api</id>
+		<content type="html">&lt;h1&gt;Loki at the Marvel API&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Juan Vazquez&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;javazquez count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/javazquez/&quot;&gt;
+
+            &lt;img src=&quot;https://avatars.githubusercontent.com/u/141025?&amp;s=80&quot; alt=&quot;Juan Vazquez&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Juan Vazquez&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/javazquez/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/javazquez/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://javazquez.com/juan/&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/VG9pFAJ8nsg&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://guarded-earth-2818.herokuapp.com/#/&quot;&gt;Hero Squad Game&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/nebraskajs/loki-at-the-marvel-api-with-juan-vazquez&quot;&gt;Slides on Speakerdeck&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://www.youtube.com/watch?v=VG9pFAJ8nsg&quot;&gt;NebraskaJS: Juan Vazquez, Loki at the Marvel API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/181849992/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;View &lt;a href=&quot;http://www.youtube.com/playlist?list=PLCCU6TIglvLHdiJPU2_qPF0Z2y8qMqq56&quot;&gt;all videos from Lightning Round II&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Flexbox</title>
+		<link href="http://nebraskajs.com/2014/flexbox/"/>
+		<updated>2014-08-17T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2014/flexbox</id>
+		<content type="html">&lt;h1&gt;Flexbox&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Timothy Miller&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;TJacobDesign count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/TJacobDesign/&quot;&gt;
+
+            &lt;img src=&quot;https://avatars.githubusercontent.com/u/963985?&amp;s=80&quot; alt=&quot;Timothy Miller&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Timothy Miller&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/TJacobDesign/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/TJacobDesign/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://foradesigner.com&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/GN_G4Ije7Q0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://foradesigner.com/Flexbox-in-Five/#/&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/tjacobdesign/Flexbox-in-Five&quot;&gt;Slideshow source code on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://www.youtube.com/watch?v=GN_G4Ije7Q0&quot;&gt;NebraskaJS: Flexbox with Timothy Miller&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/181849992/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;View &lt;a href=&quot;http://www.youtube.com/playlist?list=PLCCU6TIglvLHdiJPU2_qPF0Z2y8qMqq56&quot;&gt;all videos from Lightning Round II&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Ampersand.js</title>
+		<link href="http://nebraskajs.com/2014/ampersandjs/"/>
+		<updated>2014-08-12T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2014/ampersandjs</id>
+		<content type="html">&lt;h1&gt;&lt;a href=&quot;http://ampersandjs.com/&quot;&gt;Ampersand.js&lt;/a&gt; Lightning talk&lt;/h1&gt;
+
+&lt;h2&gt;Presented, Written by Mike Macaulay&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;mmacaula count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/mmacaula/&quot;&gt;
+
+            &lt;img src=&quot;https://avatars.githubusercontent.com/u/3186250?&amp;s=80&quot; alt=&quot;Mike Macaulay&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Mike Macaulay&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/mmacaula/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/mmacaula/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;p&gt;Ampersand.js is a new take on Backbone.js.  Backbone is super simple, and super flexible, you can do just about anything with it, but its so simple that most people can't really build a full app out of just it.  They bring in helpers and a lot of plugins to do things like data binding, nested models, and view management.&lt;/p&gt;
+
+&lt;p&gt;Ampersand.js takes the base backbone models and views and brings them up a notch.  The creators basically decided that people always want some features and you might as well put them into the library.  So you get built-in data-binding to your views (yay!), you get computed properties, direct property access, child models and collections, validation and much more!&lt;/p&gt;
+
+&lt;p&gt;At the same time, they also pushed simplicity even further by breaking up the different backbone concepts into separate, tiny modules.  Need a simple and powerful event system, try &lt;a href=&quot;https://www.npmjs.org/package/backbone-events-standalone&quot;&gt;backbone-events-standalone&lt;/a&gt;, Need just a model, &lt;a href=&quot;https://www.npmjs.org/package/ampersand-model&quot;&gt;ampersand-model&lt;/a&gt; is for you.  In fact, they're managing a whole list of useful tiny modules &lt;a href=&quot;http://tools.ampersandjs.com/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The coolest thing (IMO) about ampersand is it's upgrade path.  You can use ampersand-models in backbone collections!  You can use ampersand-views in marionette layouts since they are inspired and use a very close API.  This means if you have a backbone application, you can start using ampersand gradually and see if it's a fit for you!&lt;/p&gt;
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/UzJCz1qAiHg&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;Slides&lt;/h2&gt;
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//slides.com/mikemacaulay/ampersand-js/embed&quot; width=&quot;576&quot; height=&quot;420&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://slides.com/mikemacaulay/ampersand-js#/&quot;&gt;See the full slide deck on slides.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://ampersandjs.com/&quot;&gt;Ampersand.js site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://www.youtube.com/watch?v=UzJCz1qAiHg&quot;&gt;NebraskaJS: Mike Macaulay on Ampersand.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/181849992/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;View &lt;a href=&quot;http://www.youtube.com/playlist?list=PLCCU6TIglvLHdiJPU2_qPF0Z2y8qMqq56&quot;&gt;all videos from Lightning Round II&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>HTTP/2</title>
+		<link href="http://nebraskajs.com/2014/http2/"/>
+		<updated>2014-08-02T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2014/http2</id>
+		<content type="html">&lt;h1&gt;HTTP/2&lt;/h1&gt;
+
+&lt;h2&gt;Presented by William Riley (Will)&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;bill-riley count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/bill-riley/&quot;&gt;
+
+            &lt;img src=&quot;https://avatars.githubusercontent.com/u/1245238?&amp;s=80&quot; alt=&quot;William Riley&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;William Riley&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/bill-riley/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/Bill_Riley/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://williamriley.me/&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;p&gt;Back when HTTP was first written, we didn't know where the internet would go. We couldn't see the future. Looking back, what we've seen is consistent: it's growing at an accelerated rate. First, there's mobile, which &lt;a href=&quot;http://ben-evans.com/benedictevans/2014/7/21/leverage&quot;&gt;increases the size of the internet by 5x or 10x&lt;/a&gt;. Today, we have the Internet of Things (or IoT), which is an entire new industry that looks like it'll grow to an even bigger scale. With all this stuff to think about, HTTP/2 tries to adapt the basic parts of how the internet works to a future that we can better see.&lt;/p&gt;
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/BPAbU94An4E&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://www.youtube.com/watch?v=BPAbU94An4E&quot;&gt;NebraskaJS: HTTP/2 with Will Riley&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;View &lt;a href=&quot;http://slides.com/bill_riley/http-2-spdy#/&quot;&gt;the slides for this presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=OQ158bJPvx4&quot;&gt;Source material on YouTube&lt;/a&gt; by Mark Nottingham, IETF HTTPbis Working Group Chair&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/181849992/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;View &lt;a href=&quot;http://www.youtube.com/playlist?list=PLCCU6TIglvLHdiJPU2_qPF0Z2y8qMqq56&quot;&gt;all videos from Lightning Round II&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Building Chrome Extensions</title>
+		<link href="http://nebraskajs.com/2014/chrome-extensions/"/>
+		<updated>2014-08-02T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2014/chrome-extensions</id>
+		<content type="html">&lt;h1&gt;Building Chrome Extensions&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Nick Nisi&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;nicknisi count-Infinity&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/nicknisi/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/202775f26bf746fee64e08d58645f475?d=https%3A%2F%2Fidenticons.github.com%2F9cd91022d08b588b0a6e468a436bf56b.png&amp;r=x&amp;s=80&quot; alt=&quot;Nick Nisi&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Nick Nisi&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/nicknisi/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/nicknisi/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://nicknisi.com&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;p&gt;Creating Chrome extensions is fun and easy. Nick introduces the Chrome extension API and how it can be used to create simple browser extensions, DevTools additions, and applications, but mainly, he just talks about John Goodman.&lt;/p&gt;
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/HzJ9pUWb2rA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/nicknisi/chrome-extensions&quot;&gt;Slides on Speaker Deck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/nicknisi/chrome-goodman&quot;&gt;chrome-goodman extension on Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://www.youtube.com/watch?v=HzJ9pUWb2rA&quot;&gt;NebraskaJS: Building Chrome Extensions with Nick Nisi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/181849992/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;View &lt;a href=&quot;http://www.youtube.com/playlist?list=PLCCU6TIglvLHdiJPU2_qPF0Z2y8qMqq56&quot;&gt;all videos from Lightning Round II&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Call for New Speakers II</title>
+		<link href="http://nebraskajs.com/2014/call-for-new-speakers-ii/"/>
+		<updated>2014-07-01T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2014/call-for-new-speakers-ii</id>
+		<content type="html">&lt;h1&gt;Call for New Speakers II&lt;/h1&gt;
+
+&lt;p&gt;Please take some time to read last year’s post entitled &lt;a href=&quot;/2013/call-for-new-speakers/&quot;&gt;Call for New Speakers&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The time has come for &lt;strong&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/181849992/&quot;&gt;another Lightning Round meetup&lt;/a&gt;&lt;/strong&gt;. And in a NebraskaJS Lightning Round, we give preference to new speakers!&lt;/p&gt;
+
+&lt;p&gt;If you’re unsure what to talk about, below is a list of new technologies that would make for a great lightning talk! Don’t be afraid to pick something you don’t know! Sometimes the best explanations come from someone who just learned it.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;will-change&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Critical Path CSS&lt;/li&gt;
+&lt;li&gt;Flexbox&lt;/li&gt;
+&lt;li&gt;New iframe features: &lt;code&gt;sandbox&lt;/code&gt;, &lt;code&gt;seamless&lt;/code&gt;, &lt;code&gt;srcdoc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Web Audio APIs&lt;/li&gt;
+&lt;li&gt;WebGL/three.js&lt;/li&gt;
+&lt;li&gt;Canvas&lt;/li&gt;
+&lt;li&gt;WebRTC Video&lt;/li&gt;
+&lt;li&gt;Web Components&lt;/li&gt;
+&lt;li&gt;Shadow DOM&lt;/li&gt;
+&lt;li&gt;Service Workers&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;&amp;lt;picture&amp;gt;&lt;/code&gt; / Responsive Images&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;This list is by no means comprehensive. If you have something else you’re passionate about, feel free to speak on a topic of your own choosing!&lt;/p&gt;
+
+&lt;p&gt;If you’re interested, leave a comment here, send a tweet to &lt;a href=&quot;https://twitter.com/nebraskajs&quot;&gt;@nebraskajs&lt;/a&gt;, or add your name to the &lt;a href=&quot;https://github.com/NebraskaJS/Wiki/wiki/Speaker-Backlog&quot;&gt;wiki&lt;/a&gt;. Or contact us on any of the other social networking pages we have up. Get in touch!&lt;/p&gt;
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Open Source Hack Night</title>
+		<link href="http://nebraskajs.com/2014/open-source-hack-night/"/>
+		<updated>2014-06-10T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2014/open-source-hack-night</id>
+		<content type="html">&lt;h1&gt;Open Source Hack Night&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Nick Nisi&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;nicknisi count-Infinity&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/nicknisi/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/202775f26bf746fee64e08d58645f475?d=https%3A%2F%2Fidenticons.github.com%2F9cd91022d08b588b0a6e468a436bf56b.png&amp;r=x&amp;s=80&quot; alt=&quot;Nick Nisi&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Nick Nisi&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/nicknisi/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/nicknisi/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://nicknisi.com&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://gist.github.com/nicknisi/9216e06d5ae972a3ee07&quot;&gt;Open Source Beginner Bugs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/99035913&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/184570712/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>UI Synchronicity</title>
+		<link href="http://nebraskajs.com/2014/ui-synchronicity/"/>
+		<updated>2014-05-13T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2014/ui-synchronicity</id>
+		<content type="html">&lt;h1&gt;UI Synchronicity&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Eli Perelman&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;eliperelman count-5&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/eliperelman/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/8dc4af17fcbc9d8c1919462680e46c5a?d=https%3A%2F%2Fidenticons.github.com%2Ff52034904f2a8a6a12a10c1fb23e2147.png&amp;r=x&amp;s=80&quot; alt=&quot;Eli Perelman&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Eli Perelman&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/eliperelman/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/eliperelman/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://eliperelman.com&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/98987121&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/164211932/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>For Whom the Browser Devtools</title>
+		<link href="http://nebraskajs.com/2014/browser-devtools/"/>
+		<updated>2014-03-04T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2014/browser-devtools</id>
+		<content type="html">&lt;h1&gt;For Whom the Browser Devtools&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Jerod Santo&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;jerodsanto count-2&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/jerodsanto/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/37f5b02845d2bfa71641ec9736d58061?d=https%3A%2F%2Fidenticons.github.com%2F9f655cc8884fda7ad6d8a6fb15cc001e.png&amp;r=x&amp;s=80&quot; alt=&quot;Jerod Santo&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Jerod Santo&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/jerodsanto/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/jerodsanto/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://jerodsanto.net&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;If you’re coming to &lt;a href=&quot;https://twitter.com/nebraskajs&quot;&gt;@nebraskajs&lt;/a&gt; tomorrow (you should), bring your favorite Dev Tools tips/tricks to share. There will be cash &amp;amp; prizes!&lt;/p&gt;&amp;mdash; Jerod Santo (@jerodsanto) &lt;a href=&quot;https://twitter.com/jerodsanto/statuses/440555605854392322&quot;&gt;March 3, 2014&lt;/a&gt;&lt;/blockquote&gt;
+
+
+&lt;p&gt;This was a really interesting format as Jerod Santo crowd sourced the content for his presentation in what was almost a game-show-like format, inviting audience members to both vote on their favorite tips and tricks and present them. Presenters won t-shirts!&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Gave away 17 t-shirts to people who shared dev tools tricks at &lt;a href=&quot;https://twitter.com/nebraskajs&quot;&gt;@nebraskajs&lt;/a&gt; last night. We ran out of time &amp;amp; left 14 more on the board. Win!&lt;/p&gt;&amp;mdash; Jerod Santo (@jerodsanto) &lt;a href=&quot;https://twitter.com/jerodsanto/statuses/441212641298497536&quot;&gt;March 5, 2014&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Learned a ton at last night&amp;#39;s &lt;a href=&quot;https://twitter.com/nebraskajs&quot;&gt;@nebraskajs&lt;/a&gt; meetup! I was showing my coworkers tricks before 8 am this morning. Thanks &lt;a href=&quot;https://twitter.com/jerodsanto&quot;&gt;@jerodsanto&lt;/a&gt; &lt;a href=&quot;https://twitter.com/zachleat&quot;&gt;@zachleat&lt;/a&gt;!&lt;/p&gt;&amp;mdash; Adam A. Koch (@aakoch) &lt;a href=&quot;https://twitter.com/aakoch/statuses/441224274435534848&quot;&gt;March 5, 2014&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;Using DevTools with new purpose today after seeing great demos at &lt;a href=&quot;https://twitter.com/nebraskajs&quot;&gt;@nebraskajs&lt;/a&gt; last night. Watch for the video soon on &lt;a href=&quot;https://twitter.com/techomaha&quot;&gt;@techomaha&lt;/a&gt;&lt;/p&gt;&amp;mdash; Ryan Stille (@RyanStille) &lt;a href=&quot;https://twitter.com/RyanStille/statuses/441229629517332481&quot;&gt;March 5, 2014&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/Jl98hNYNDTI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/jerodsanto/dtsc&quot;&gt;Source Code on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/140479302/&quot;&gt;Event on Meetup (includes all of the crowd sourced names for the talk)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://techomaha.com/2014/03/nebraskajs-browser-devtools/&quot;&gt;Video on Tech Omaha&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Leap Motion</title>
+		<link href="http://nebraskajs.com/2014/leapmotion/"/>
+		<updated>2014-01-11T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2014/leapmotion</id>
+		<content type="html">&lt;h1&gt;Leap Motion&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Jay Hannah&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;jhannah count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/jhannah/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/bf8de7ddc274900e168ea776b37c4c31?d=https%3A%2F%2Fidenticons.github.com%2F361e9cefdfa50cc12703feec475fa611.png&amp;r=x&amp;s=80&quot; alt=&quot;Jay Hannah&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Jay Hannah&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/jhannah/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/deafferret/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://jays.net&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;p&gt;Jay gave a bunch of really interesting demos of a project he’s working on using WebGL and the &lt;a href=&quot;https://www.leapmotion.com/&quot;&gt;Leap Motion interactive controller&lt;/a&gt;, a device that will map your fingers in 3-dimensional space.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/talks/leapmotion.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Think of it like Minority Report but it doesn’t require hand gear.&lt;/p&gt;
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/83939736&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://leap.iinteractive.com/&quot;&gt;Of course, 3-dimensional Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/iinteractive/leapmotion&quot;&gt;Source Code on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/140479272/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://vimeo.com/83939736&quot;&gt;Video on Vimeo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Leap Copter</title>
+		<link href="http://nebraskajs.com/2014/leapcopter/"/>
+		<updated>2014-01-11T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2014/leapcopter</id>
+		<content type="html">&lt;h1&gt;Leap Copter&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Nick Nisi&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;nicknisi count-Infinity&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/nicknisi/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/202775f26bf746fee64e08d58645f475?d=https%3A%2F%2Fidenticons.github.com%2F9cd91022d08b588b0a6e468a436bf56b.png&amp;r=x&amp;s=80&quot; alt=&quot;Nick Nisi&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Nick Nisi&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/nicknisi/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/nicknisi/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://nicknisi.com&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;p&gt;Nick combined aspects of the other two presentations at NebraskaJS January 2014 (&lt;a href=&quot;/2014/leapmotion/&quot;&gt;Leap Motion&lt;/a&gt; and a &lt;a href=&quot;/2014/hardware-geocities/&quot;&gt;nodecopter&lt;/a&gt;) to demo flying a &lt;a href=&quot;http://ardrone2.parrot.com&quot;&gt;Parrot AR.Drone&lt;/a&gt; using the &lt;a href=&quot;https://www.leapmotion.com/&quot;&gt;Leap Motion interactive controller&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;One of the really impressive pieces of this presentation was that Nick used &lt;a href=&quot;https://github.com/bkw/node-dronestream&quot;&gt;Node-DroneStream&lt;/a&gt; which uses &lt;a href=&quot;https://github.com/mbebenita/Broadway&quot;&gt;Broadway.js&lt;/a&gt; (a JavaScript H.264 decoder) to decode a live video stream from the Drone. This created a really fluid video.&lt;/p&gt;
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/83939999&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/nicknisi/leapcopter&quot;&gt;Source Code on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/140479272/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://vimeo.com/83939999&quot;&gt;Video on Vimeo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Hardware is the New Geocities</title>
+		<link href="http://nebraskajs.com/2014/hardware-geocities/"/>
+		<updated>2014-01-11T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2014/hardware-geocities</id>
+		<content type="html">&lt;h1&gt;Hardware is the New Geocities&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Matt Steele&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;mattdsteele count-2&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/mattdsteele/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/911466eedb687b909f7e66816223ceb2?d=https%3A%2F%2Fidenticons.github.com%2Fe6b47ab560b9ad53067c46d0ae4d04e5.png&amp;r=x&amp;s=80&quot; alt=&quot;Matt Steele&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Matt Steele&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/mattdsteele/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/mattdsteele/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://matthew-steele.com&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;p&gt;Matt is one of those people who is clearly not afraid of a live demo. In one of NebraskaJS’s most demo-rich presentations he showcases:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;5:34&lt;/code&gt; &lt;a href=&quot;https://github.com/rwaldron/johnny-five&quot;&gt;Johnny Five&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;6:50&lt;/code&gt; &lt;a href=&quot;http://arduino.cc/&quot;&gt;Arduino&lt;/a&gt; with blinking LED.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;7:25&lt;/code&gt; Uses &lt;a href=&quot;http://www.webrtc.org/&quot;&gt;WebRTC&lt;/a&gt; to show his webcam on the projector.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;12:04&lt;/code&gt; Potentiometers&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;14:02&lt;/code&gt; Socket.IO&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;16:38&lt;/code&gt; A hardware knob to dynamically adjust a web page’s font-size (truly fluid text).&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;17:08&lt;/code&gt; Light sensors&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;19:09&lt;/code&gt; A light sensor to dynamically adjust a web page’s background color (ambiance web design, anyone?).&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;20:05&lt;/code&gt; Flex sensors and a DIY Power Glove.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;24:11&lt;/code&gt; Hook a Wii Nunchuck into your Arduino.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;27:59&lt;/code&gt; Using the Wii Nunchuck to control an image on a web page.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;29:38&lt;/code&gt; &lt;a href=&quot;http://ardrone2.parrot.com/&quot;&gt;Parrot AR.Drone&lt;/a&gt; (Nodecopter)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;32:34&lt;/code&gt; Flying the drone with some demo JavaScript.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;34:31&lt;/code&gt; Streaming the drone’s front facing camera to a web page.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;35:41&lt;/code&gt; Flying the drone using the Wii Nunchuck.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Really an amazing presentation.&lt;/p&gt;
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//player.vimeo.com/video/83907789&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/140479272/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://vimeo.com/83907789&quot;&gt;Video on Vimeo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Yeoman Generators</title>
+		<link href="http://nebraskajs.com/2013/yeoman-generators/"/>
+		<updated>2013-11-16T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2013/yeoman-generators</id>
+		<content type="html">&lt;h1&gt;Yeoman Generators&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Bruce Coddington&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;BruceCoddington count-2&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/BruceCoddington/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/4a2cbfe1751d189b097cb7000edbb142?d=https%3A%2F%2Fidenticons.github.com%2Faae8a23a0d1f5b5054c732e86cecc4b6.png&amp;r=x&amp;s=80&quot; alt=&quot;Bruce Coddington&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Bruce Coddington&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/BruceCoddington/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/BruceCoddington/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/oPfeuVtOGz4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/brucecoddington/generator-nebraska&quot;&gt;Bruce’s Source Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://www.youtube.com/watch?v=oPfeuVtOGz4&quot;&gt;NebraskaJS: Yeoman Generators—Bruce Coddington&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/118573952/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Test Driven Development</title>
+		<link href="http://nebraskajs.com/2013/tddjs/"/>
+		<updated>2013-11-16T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2013/tddjs</id>
+		<content type="html">&lt;h1&gt;Test Driven Development&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Jim Hood&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;hoodja count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/hoodja/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/a7f94f4a161d2708dfbc7e4f6cf4587f?d=https%3A%2F%2Fidenticons.github.com%2F536582fbf2f5c3287b61de7b433c1c5a.png&amp;r=x&amp;s=80&quot; alt=&quot;James Hood&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;James Hood&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/hoodja/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/hoodja/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/VdjL0r5V36k&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://www.youtube.com/watch?v=VdjL0r5V36k&quot;&gt;NebraskaJS: Test Driven JavaScript Development—Jim Hood&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/118573952/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Object Oriented JavaScript</title>
+		<link href="http://nebraskajs.com/2013/oojs/"/>
+		<updated>2013-11-16T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2013/oojs</id>
+		<content type="html">&lt;h1&gt;Object Oriented JavaScript&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Abraham Serafino&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;serafino count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/serafino/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/154ed5bcbe4c3f9ef5a3f825089fb046?d=https%3A%2F%2Fidenticons.github.com%2F0d0ee448f4860e50d8649d67c46adc79.png&amp;r=x&amp;s=80&quot; alt=&quot;&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/serafino/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/teknohazard/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/pf-Iw1u_ikc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/serafino/JS&quot;&gt;Code available on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://www.youtube.com/watch?v=pf-Iw1u_ikc&quot;&gt;NebraskaJS: Object Oriented JavaScript—Abraham Serafino&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/118573952/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>JSBin Canvas Competition</title>
+		<link href="http://nebraskajs.com/2013/jsbin-canvas-comp/"/>
+		<updated>2013-11-16T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2013/jsbin-canvas-comp</id>
+		<content type="html">&lt;h1&gt;JSBin Canvas Competition&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Jason Brown&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;loktar00 count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/loktar00/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/710a392a974ed826ed96407788e0df5e?d=https%3A%2F%2Fidenticons.github.com%2F5b23b9971d12dab6a2dba32c531ab7ee.png&amp;r=x&amp;s=80&quot; alt=&quot;Jason Brown&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Jason Brown&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/loktar00/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/loktar00/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://www.somethinghitme.com&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;p&gt;For its fifth birthday, JSBin had a &lt;a href=&quot;http://remysharp.com/2013/08/14/jsbin-5th-birthday/&quot;&gt;competition to replicate mathematical visualizations using canvas&lt;/a&gt;. Nebraskan Jason Brown stepped up to the plate and offered &lt;a href=&quot;http://remysharp.com/2013/08/14/jsbin-5th-birthday/#solvedSoFar-heading&quot;&gt;solutions to 5 different problems&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;Seriously impressed with &lt;a href=&quot;https://twitter.com/loktar00&quot;&gt;@loktar00&lt;/a&gt;’s recent solution to the &lt;a href=&quot;https://twitter.com/js_bin&quot;&gt;@js_bin&lt;/a&gt; comp: &lt;a href=&quot;http://t.co/yU6EDZHSGq&quot;&gt;http://t.co/yU6EDZHSGq&lt;/a&gt; // others so far: &lt;a href=&quot;http://t.co/aNre5zEgI3&quot;&gt;http://t.co/aNre5zEgI3&lt;/a&gt;&lt;/p&gt;&amp;mdash; Remy Sharp (@rem) &lt;a href=&quot;https://twitter.com/rem/statuses/369217674791755777&quot;&gt;August 18, 2013&lt;/a&gt;&lt;/blockquote&gt;
+
+
+&lt;p&gt;Jason offered to demonstrate how he built that visualization at NebraskaJS:&lt;/p&gt;
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/tTsYRdo7mjA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1ca4uMjPtxhuyQNgNSVNdcEWJUvFMyRsQY-1qlcJKfeQ/edit?pli=1#slide=id.p&quot;&gt;Slides on Google Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.somethinghitme.com/2013/08/18/recreating-gifs-for-the-jsbin-compo/&quot;&gt;Recreating gifs for the JSBin Compo, a post on Jason’s Blog Somethinghitme&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://www.youtube.com/watch?v=tTsYRdo7mjA&quot;&gt;NebraskaJS: JSBin Canvas Competition—Jason Brown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/118573952/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>ECMAScript 6 (Harmony)</title>
+		<link href="http://nebraskajs.com/2013/es6/"/>
+		<updated>2013-11-16T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2013/es6</id>
+		<content type="html">&lt;h1&gt;ECMAScript 6 (Harmony)&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Alec Larsen&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;alecbeta count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/alecbeta/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/13cb3cfa9391006aa66ef5760a8be72e?d=https%3A%2F%2Fidenticons.github.com%2Fc62be3f81b01b88d73aecf86478088ef.png&amp;r=x&amp;s=80&quot; alt=&quot;Alec Larsen&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Alec Larsen&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/alecbeta/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/ikgRLpWZiLs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1y4Ul1Bdffpy7hu_0Jfj1aAoPn93k5NvmVxczPzBuA38/edit?pli=1#slide=id.g17189d411_06&quot;&gt;Slides on Google Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://www.youtube.com/watch?v=ikgRLpWZiLs&quot;&gt;NebraskaJS: ECMAScript 6—Alec Larsen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/118573952/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Emscripten</title>
+		<link href="http://nebraskajs.com/2013/emscripten/"/>
+		<updated>2013-11-16T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2013/emscripten</id>
+		<content type="html">&lt;h1&gt;Emscripten&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Bryan Rockwood&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;BRock97 count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/BRock97/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/78ec1be188d8c9e65e8636a3fb9516cb?d=https%3A%2F%2Fidenticons.github.com%2Fd999f7ee73af2a49dd9ca1935e1400ac.png&amp;r=x&amp;s=80&quot; alt=&quot;&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/BRock97/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/BRock97/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;p&gt;Unfortunately, the video camera battery died at about the second to last slide in Bryan’s presentation. Sorry! Be sure to check out the slides below.&lt;/p&gt;
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/nl7dBAQzjOg&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/nebraskajs/emscripten-with-bryan-rockwood&quot;&gt;Slides on SpeakerDeck&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://www.youtube.com/watch?v=nl7dBAQzjOg&quot;&gt;NebraskaJS: Emscripten—Bryan Rockwood&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/118573952/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>CHICKEN CAM</title>
+		<link href="http://nebraskajs.com/2013/chicken-cam/"/>
+		<updated>2013-11-16T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2013/chicken-cam</id>
+		<content type="html">&lt;h1&gt;CHICKEN CAM&lt;/h1&gt;
+
+&lt;h2&gt;Presented by John Hobbs&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;jmhobbs count-2&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/jmhobbs/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/1d85dfb12d57d182c3e870b46390d384?d=https%3A%2F%2Fidenticons.github.com%2F5f2484cfb8073580c9136f7a8894734e.png&amp;r=x&amp;s=80&quot; alt=&quot;John Hobbs&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;John Hobbs&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/jmhobbs/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/jmhobbs/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://www.velvetcache.org/&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/SLIuNn64Krk&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://static.velvetcache.org/talks/2013/11/%5BNEJS%5D%20Chicken%20Cam/index.html&quot;&gt;Slides on VelvetCache&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://chicken-cam.herokuapp.com/&quot;&gt;Direct link to the Chicken Cam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/jmhobbs/chicken-cam&quot;&gt;Chicken Cam on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://www.youtube.com/watch?v=SLIuNn64Krk&quot;&gt;NebraskaJS: Chicken Cam—John Hobbs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/118573952/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>AngularJS Directives</title>
+		<link href="http://nebraskajs.com/2013/angularjs-directives/"/>
+		<updated>2013-11-16T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2013/angularjs-directives</id>
+		<content type="html">&lt;h1&gt;AngularJS Directives&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Paul Graff&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;paulgraff count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/paulgraff/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/a0cc26ecd8a7851980ebd300a86eb914?d=https%3A%2F%2Fidenticons.github.com%2Fe3845a77bdebbb5e64b5be084cef53e6.png&amp;r=x&amp;s=80&quot; alt=&quot;Paul Graff&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Paul Graff&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/paulgraff/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/paulgraff/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://wootbro.com&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/kgFlJwts2j4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1HYHv1-kEWd50m1w7joitu_MfTzg1hdaUD19LiiZHFnY/edit#slide=id.p&quot;&gt;Slides on Google Docs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://www.youtube.com/watch?v=kgFlJwts2j4&quot;&gt;NebraskaJS: AngularJS Directives—Paul Graff&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/118573952/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Call for New Speakers</title>
+		<link href="http://nebraskajs.com/2013/call-for-new-speakers/"/>
+		<updated>2013-09-16T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2013/call-for-new-speakers</id>
+		<content type="html">&lt;h1&gt;Call for New Speakers&lt;/h1&gt;
+
+&lt;p&gt;One of the primary goals we have for NebraskaJS is to &lt;strong&gt;put more local developers into the public eye&lt;/strong&gt;. We have a lot of really talented developers in this community that don’t do a lot of self-marketing. We are here to help with that!&lt;/p&gt;
+
+&lt;p&gt;At HowConf this past week there were sessions that were similar in content to those at JSConf US 2013, and in my opinion the HowConf content was more technically advanced than the JSConf material. This tells me that something is misaligned.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We need new people to contribute to the group.&lt;/strong&gt; We are always looking for local developers to give lightning talks at our meetups, and in that vein we are going to do a different format for the next meeting—it’s going to be all lightning talks. We’ll have about seven or eight session slots available and we want to get as many new speakers into those slots as we can. If we get more than eight submissions, preference will be given to those that have not presented before.&lt;/p&gt;
+
+&lt;p&gt;If public speaking makes you nervous, giving a lightning talk can be a great way to practice. It’s short and not incredibly detailed. You often aren’t trying to communicate a nuanced idea in five or ten minutes—just a few main details.&lt;/p&gt;
+
+&lt;p&gt;If you’re hesitant about picking a topic or the inaccuracy of your content, &lt;strong&gt;ask us&lt;/strong&gt;! We have a ton of topic ideas that you can choose from. Or if you have a topic in mind we will personally look over your slides and give suggestions beforehand. We’re a very forgiving group—I encourage you to give it a shot!&lt;/p&gt;
+
+&lt;p&gt;Next year when we’re selecting speakers for the NebraskaJS conference, we will give preference to those that have given talks at the meetup. So strike while the &lt;code&gt;Fe &amp;gt; 100ºC&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you’re interested, leave a comment here, send a tweet to &lt;a href=&quot;https://twitter.com/nebraskajs&quot;&gt;@nebraskajs&lt;/a&gt;, or add your name to the &lt;a href=&quot;https://github.com/NebraskaJS/Wiki/wiki/Speaker-Backlog&quot;&gt;wiki&lt;/a&gt;. Or contact us on any of the other social networking pages we have up. Get in touch!&lt;/p&gt;
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Information Radiators</title>
+		<link href="http://nebraskajs.com/2013/information-radiators/"/>
+		<updated>2013-09-07T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2013/information-radiators</id>
+		<content type="html">&lt;h1&gt;Information Radiators (Node.js, Raspberry PI, Socket.IO)&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Rob Hruska&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;robhruska count-2&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/robhruska/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/ffffa52ae8108fdeb2559d804051556e?d=https%3A%2F%2Fidenticons.github.com%2F74e6b092d4b5aed7bf888fc4bc191d5d.png&amp;r=x&amp;s=80&quot; alt=&quot;Rob Hruska&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Rob Hruska&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/robhruska/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/robhruska/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://www.robhruska.com&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/yhYuCBRSA0w&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/robhruska/nuggets&quot;&gt;Slides on SpeakerDeck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/hudl/nugget&quot;&gt;GitHub repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://techomaha.com/2013/09/rob-hruska-dashboards/&quot;&gt;Tech Omaha: Rob Hruska-Throwing Up Numbers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/118573872/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Web Animation</title>
+		<link href="http://nebraskajs.com/2013/web-animation/"/>
+		<updated>2013-08-28T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2013/web-animation</id>
+		<content type="html">&lt;h1&gt;Web Animation&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Cody Peterson&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;codyjames count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/codyjames/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/668b29ffd82f27e42d29561145b4e61a?d=https%3A%2F%2Fidenticons.github.com%2Fcdc02e16eb75db678b1dfb00b1d7e5b3.png&amp;r=x&amp;s=80&quot; alt=&quot;Cody Peterson&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Cody Peterson&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/codyjames/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/codypeterson/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://codyjamespeterson.com&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/zachleat/9612921647/&quot; title=&quot;NebraskaJS FightCodeGame Tank Battle August 2013 by zachleat, on Flickr&quot;&gt;&lt;img src=&quot;http://farm3.staticflickr.com/2815/9612921647_1a8cb2e754_z.jpg&quot; alt=&quot;NebraskaJS FightCodeGame Tank Battle August 2013&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/VvlKnVDeUwc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://techomaha.com/2013/08/cody-peterson-web-animation/&quot;&gt;Tech Omaha: Cody Peterson at NebraskaJS—Web Animation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/129216662/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;More Media&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/zachleat/9612905719/&quot; title=&quot;NebraskaJS FightCodeGame Tank Battle August 2013 by zachleat, on Flickr&quot;&gt;&lt;img src=&quot;http://farm4.staticflickr.com/3775/9612905719_1f9c344837_z.jpg&quot; alt=&quot;NebraskaJS FightCodeGame Tank Battle August 2013&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+	<entry>
+		<title>fightcodegame Tank Battle</title>
+		<link href="http://nebraskajs.com/2013/fightcodegame/"/>
+		<updated>2013-08-28T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2013/fightcodegame</id>
+		<content type="html">&lt;h1&gt;fightcodegame.com Tank Battle&lt;/h1&gt;
+
+&lt;h2&gt;Administrated by Nick Nisi and Zach Leatherman&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;nicknisi count-Infinity&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/nicknisi/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/202775f26bf746fee64e08d58645f475?d=https%3A%2F%2Fidenticons.github.com%2F9cd91022d08b588b0a6e468a436bf56b.png&amp;r=x&amp;s=80&quot; alt=&quot;Nick Nisi&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Nick Nisi&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/nicknisi/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/nicknisi/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://nicknisi.com&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;zachleat count-5&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/zachleat/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/e1899004c71c7043343196103e210be3?d=https%3A%2F%2Fidenticons.github.com%2F67b46df8fd1c23206e0572850ac213b5.png&amp;r=x&amp;s=80&quot; alt=&quot;Zach Leatherman&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Zach Leatherman&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/zachleat/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/zachleat/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://www.zachleat.com/web/&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;h2&gt;Coding the tanks&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/zachleat/9612913623/&quot; title=&quot;NebraskaJS FightCodeGame Tank Battle August 2013 by zachleat, on Flickr&quot;&gt;&lt;img src=&quot;http://farm4.staticflickr.com/3833/9612913623_0d48243a08_z.jpg&quot; alt=&quot;NebraskaJS FightCodeGame Tank Battle August 2013&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;View the &lt;a href=&quot;http://challonge.com/nebraskajs&quot;&gt;Tournament Brackets&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2&gt;Grand Prize&lt;/h2&gt;
+
+&lt;p&gt;The winner received a copy of &lt;a href=&quot;http://jsninja.com/&quot;&gt;Secrets of the JavaScript Ninja&lt;/a&gt; by John Resig and a sweet tank trophy:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/zachleat/9616130416/&quot; title=&quot;NebraskaJS FightCodeGame Tank Battle August 2013 by zachleat, on Flickr&quot;&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7315/9616130416_898f8ce474_z.jpg&quot; alt=&quot;NebraskaJS FightCodeGame Tank Battle August 2013&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;The Final Match&lt;/h2&gt;
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/cniD5GvlWzU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;The Winner: &lt;a href=&quot;https://twitter.com/prrstn&quot;&gt;Preston Badeer&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/zachleat/9616154580/&quot; title=&quot;NebraskaJS FightCodeGame Tank Battle August 2013 by zachleat, on Flickr&quot;&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7302/9616154580_29b4f24b36_z.jpg&quot; alt=&quot;NebraskaJS FightCodeGame Tank Battle August 2013&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/129216662/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=cniD5GvlWzU&quot;&gt;Watch the finals on YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Device APIs</title>
+		<link href="http://nebraskajs.com/2013/device-apis/"/>
+		<updated>2013-08-28T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2013/device-apis</id>
+		<content type="html">&lt;h1&gt;Device APIs&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Matt Steele&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;mattdsteele count-2&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/mattdsteele/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/911466eedb687b909f7e66816223ceb2?d=https%3A%2F%2Fidenticons.github.com%2Fe6b47ab560b9ad53067c46d0ae4d04e5.png&amp;r=x&amp;s=80&quot; alt=&quot;Matt Steele&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Matt Steele&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/mattdsteele/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/mattdsteele/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://matthew-steele.com&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/zachleat/9612909839/&quot; title=&quot;NebraskaJS FightCodeGame Tank Battle August 2013 by zachleat, on Flickr&quot;&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7402/9612909839_ab5a513f52_z.jpg&quot; alt=&quot;NebraskaJS FightCodeGame Tank Battle August 2013&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/5fgaXNCrtj0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://matthewsteele.wordpress.com/2013/08/06/exploring-the-device-apis/&quot;&gt;Matt’s Own Blog Post on the Talk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/mattdsteele/diving-into-the-device-api&quot;&gt;Slides on Speakerdeck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/mattdsteele/device-apis&quot;&gt;device-apis Code on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://techomaha.com/2013/08/matt-steele-javascript-device-apis/&quot;&gt;Tech Omaha: Matt Steele at NebraskaJS—JavaScript Device APIs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/129216662/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>AngularJS</title>
+		<link href="http://nebraskajs.com/2013/angularjs/"/>
+		<updated>2013-07-26T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2013/angularjs</id>
+		<content type="html">&lt;h1&gt;AngularJS&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Jerod Santo&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;jerodsanto count-2&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/jerodsanto/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/37f5b02845d2bfa71641ec9736d58061?d=https%3A%2F%2Fidenticons.github.com%2F9f655cc8884fda7ad6d8a6fb15cc001e.png&amp;r=x&amp;s=80&quot; alt=&quot;Jerod Santo&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Jerod Santo&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/jerodsanto/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/jerodsanto/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://jerodsanto.net&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/zachleat/9366585451/&quot; title=&quot;Jerod Santo talking about AngularJS by zachleat, on Flickr&quot;&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5463/9366585451_5226516355_z.jpg&quot; alt=&quot;Jerod Santo talking about AngularJS&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/1JS07_sFMcs&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://slid.es/jerodsanto/nebraskajs-angularjs&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/jerodsanto/starlight&quot;&gt;Sample Application GitHub Repo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://techomaha.com/2013/07/jerod-santo-angularjs/&quot;&gt;Tech Omaha: Jerod Santo presents on AngularJS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/113451292/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://angularjs.org/&quot;&gt;AngularJS Official Web Site&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Culture of Collaboration</title>
+		<link href="http://nebraskajs.com/2013/collaboration/"/>
+		<updated>2013-07-17T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2013/collaboration</id>
+		<content type="html">&lt;h1&gt;Culture of Collaboration&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Nicholas Petersen&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;nicholaspetersen count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/nicholaspetersen/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/e43aa56137bb54a636aaafa278103729?d=https%3A%2F%2Fidenticons.github.com%2Fef50fda8f5cd041f9f47b5ab5cda722d.png&amp;r=x&amp;s=80&quot; alt=&quot;&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/nicholaspetersen/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/lessis/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/zachleat/9366554471/&quot;&gt;&lt;img src=&quot;http://farm3.staticflickr.com/2883/9366554471_5c0c3510e9_z.jpg&quot; alt=&quot;Nicholas Petersen speaking at NebraskaJS July 2013&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/FCbK-Chz5J4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://techomaha.com/2013/07/nicholas-petersen-problem-solving/&quot;&gt;Tech Omaha: Nicholas Petersen—Collaborative Problem Solving&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/113451292/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Yeoman, Yo, and Bower</title>
+		<link href="http://nebraskajs.com/2013/yeoman/"/>
+		<updated>2013-06-13T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2013/yeoman</id>
+		<content type="html">&lt;h1&gt;Yeoman, Yo, and Bower&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Andrew Wirick&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;awirick count-5&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/awirick/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/c88f878b659d5b406c240361bba0ae5a?d=https%3A%2F%2Fidenticons.github.com%2F1ee3bb7cda8fe16eaf731b190fcf00b3.png&amp;r=x&amp;s=80&quot; alt=&quot;&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/awirick/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/amwirick/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;/img/talks/grunt.jpg&quot; alt=&quot;NebraskaJS at Blue Cross Blue Shield&quot; /&gt;
+&lt;a href=&quot;https://twitter.com/techomaha/status/331916121324261377&quot;&gt;Photo Credit TechOmaha 2013&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/TUk19YoP-oI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/goodtwin/yeomanpres&quot;&gt;Slides available on GitHub (clone to view)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://techomaha.com/2013/05/andrew-wirick-yeoman/&quot;&gt;Tech Omaha: Andrew Wirick at NebraskaJS - Yeoman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/97824442/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/goodtwin/8bit&quot;&gt;8-Bit Omaha&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Grunt—The JavaScript Task Runner</title>
+		<link href="http://nebraskajs.com/2013/grunt/"/>
+		<updated>2013-05-18T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2013/grunt</id>
+		<content type="html">&lt;h1&gt;Grunt—The JavaScript Task Runner&lt;/h1&gt;
+
+&lt;h2&gt;Presented by John Hobbs&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;jmhobbs count-2&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/jmhobbs/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/1d85dfb12d57d182c3e870b46390d384?d=https%3A%2F%2Fidenticons.github.com%2F5f2484cfb8073580c9136f7a8894734e.png&amp;r=x&amp;s=80&quot; alt=&quot;John Hobbs&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;John Hobbs&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/jmhobbs/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/jmhobbs/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://www.velvetcache.org/&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;/img/talks/grunt.jpg&quot; alt=&quot;NebraskaJS at Blue Cross Blue Shield&quot; /&gt;
+&lt;a href=&quot;https://twitter.com/techomaha/status/331916121324261377&quot;&gt;Photo Credit TechOmaha 2013&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/aW1n1SWCKd4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://static.velvetcache.org/talks/2013/05/[NEJS]%20Grunt/index.html#/&quot;&gt;Slides available on VelvetCache&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://techomaha.com/2013/05/john-hobbs-grunt/&quot;&gt;Tech Omaha: John Hobbs at NebraskaJS—Grunt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/97824442/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Voice Controlled Lighting with JavaScript</title>
+		<link href="http://nebraskajs.com/2013/lights/"/>
+		<updated>2013-05-17T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2013/lights</id>
+		<content type="html">&lt;h1&gt;Voice Controlled Lighting with JavaScript&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Alex P. Gates&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;alexpgates count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/alexpgates/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/b5a8049befdfe8aaebf5a6cece4e9126?d=https%3A%2F%2Fidenticons.github.com%2Ff5e080332ed8645988e7225a23353a3a.png&amp;r=x&amp;s=80&quot; alt=&quot;Alex P. Gates&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Alex P. Gates&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/alexpgates/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/alexpgates/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://whatcheer.com&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;/img/talks/grunt.jpg&quot; alt=&quot;NebraskaJS at Blue Cross Blue Shield&quot; /&gt;
+&lt;a href=&quot;https://twitter.com/techomaha/status/331916121324261377&quot;&gt;Photo Credit TechOmaha 2013&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/wsFSLDluypk&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Some &lt;a href=&quot;https://github.com/alexpgates/phpHue&quot;&gt;source code available on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meethue.com/&quot;&gt;Philips Hue Lights&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://techomaha.com/2013/05/alex-p-gates-voice-controlled-lighting-using-javascript/&quot;&gt;Tech Omaha: Alex P. Gates—Voice controlled lighting using JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/97824442/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Ember.js—A framework for creating ambitious web applications</title>
+		<link href="http://nebraskajs.com/2013/emberjs/"/>
+		<updated>2013-03-18T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2013/emberjs</id>
+		<content type="html">&lt;h1&gt;Ember.js—A framework for creating ambitious web applications&lt;/h1&gt;
+
+&lt;h2&gt;Presented by John Christopher&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;jgchristopher count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/jgchristopher/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/0d634ca90d58ba262b42ebd6ba97268a?d=https%3A%2F%2Fidenticons.github.com%2Ff6026b2fee4a55c46ac4618a77825d6d.png&amp;r=x&amp;s=80&quot; alt=&quot;John Christopher&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;John Christopher&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/jgchristopher/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/jgchristopher/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;/img/talks/emberjs.jpeg&quot; alt=&quot;A packed room for NebraskaJS&quot; /&gt;
+&lt;a href=&quot;https://twitter.com/jmhobbs/status/309103100348743680&quot;&gt;Photo Credit John Hobbs 2013&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In what was likely the &lt;a href=&quot;http://www.siliconprairienews.com/2013/03/i-live-in-omaha-creator-john-henry-mller-to-move-to-california&quot;&gt;last event held at the What Cheer office&lt;/a&gt;, John Christopher gave a talk about Ember.js to a new NebraskaJS attendance record of 57 people.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Ember.js touts itself as “A framework for creating ambitious web applications.” This talk will provide an ambitious introduction to Ember.js, covering the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Philosophy behind Ember.js and why you might choose it over other frameworks.&lt;/li&gt;
+&lt;li&gt;Idioms used inside of Ember.js.&lt;/li&gt;
+&lt;li&gt;How to get started with it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;http://www.youtube.com/embed/m_TKfIH7JN4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://techomaha.com/2013/03/john-christopher-ember-js/&quot;&gt;Tech Omaha: John Christopher—Intro to EmberJS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/jgchristopher/nebraskajs-intro-to-ember&quot;&gt;Slides available on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/97861512/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Building RESTful services with Node.js</title>
+		<link href="http://nebraskajs.com/2013/rest-and-nodejs/"/>
+		<updated>2013-01-03T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2013/rest-and-nodejs</id>
+		<content type="html">&lt;h1&gt;Building RESTful services with Node.js&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Nick Nisi&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;nicknisi count-Infinity&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/nicknisi/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/202775f26bf746fee64e08d58645f475?d=https%3A%2F%2Fidenticons.github.com%2F9cd91022d08b588b0a6e468a436bf56b.png&amp;r=x&amp;s=80&quot; alt=&quot;Nick Nisi&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Nick Nisi&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/nicknisi/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/nicknisi/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://nicknisi.com&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/APO3fFH7osw&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://techomaha.com/2013/01/restful-services-with-node-js/&quot;&gt;Tech Omaha: Building RESTful services with Node.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/nebraskajs/restful-services-in-node-dot-js&quot;&gt;Slides available on Speaker Deck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/nicknisi/node-talk&quot;&gt;Source code available on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/87624182/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Contributing to jQuery Mobile</title>
+		<link href="http://nebraskajs.com/2013/contributing-jquery-mobile/"/>
+		<updated>2013-01-03T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2013/contributing-jquery-mobile</id>
+		<content type="html">&lt;h1&gt;Contributing to jQuery Mobile&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Collin Forrester&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;collinforrester count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/collinforrester/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/08c356a216f73b39cf106cf3150faa1a?d=https%3A%2F%2Fidenticons.github.com%2F512715ba26576075e31e9780554ce63f.png&amp;r=x&amp;s=80&quot; alt=&quot;&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/collinforrester/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/cforrester07/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/eiaVF0MectI&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;View the infamous &lt;a href=&quot;https://github.com/jquery/jquery-mobile/pull/5281&quot;&gt;‘Clear input button for text inputs’ Pull Request on GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video recorded and edited by &lt;a href=&quot;http://techomaha.com/2013/01/collin-forrester-contributing-jquery/&quot;&gt;Tech Omaha: Contributing to jQuery Mobile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/87624182/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>Performance in Responsive Web Design</title>
+		<link href="http://nebraskajs.com/2012/performance-in-rwd/"/>
+		<updated>2012-11-08T00:00:00-06:00</updated>
+		<id>http://nebraskajs.com/2012/performance-in-rwd</id>
+		<content type="html">&lt;h1&gt;Performance in Responsive Web Design&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Zach Leatherman&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;zachleat count-5&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/zachleat/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/e1899004c71c7043343196103e210be3?d=https%3A%2F%2Fidenticons.github.com%2F67b46df8fd1c23206e0572850ac213b5.png&amp;r=x&amp;s=80&quot; alt=&quot;Zach Leatherman&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Zach Leatherman&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/zachleat/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/zachleat/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://www.zachleat.com/web/&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Update: this presentation was updated and recorded at &lt;a href=&quot;http://www.zachleat.com/web/rwd-perf/&quot;&gt;The Omaha Mobile Group (video available)&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;script async class=&quot;speakerdeck-embed&quot; data-id=&quot;a4b592e00c530130c43112313940cc16&quot; data-ratio=&quot;1.2994923857868&quot; src=&quot;http://speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Unfortunately there is not a video for this presentation, due to a technical mishap on the part of the presenter (me). Sorry!&lt;/p&gt;
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/nebraskajs/performance-and-responsive-web-design&quot;&gt;Slides available on Speaker Deck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/74950422/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+	<entry>
+		<title>RESTful Web Services with Sinatra and jQuery.rest</title>
+		<link href="http://nebraskajs.com/2010/restful-web-services/"/>
+		<updated>2010-09-01T00:00:00-05:00</updated>
+		<id>http://nebraskajs.com/2010/restful-web-services</id>
+		<content type="html">&lt;h1&gt;RESTful Web Services with Sinatra and jQuery.rest&lt;/h1&gt;
+
+&lt;h2&gt;Presented by Adam Lassek (September 2010)&lt;/h2&gt;
+
+&lt;ol class=&quot;presenters&quot;&gt;
+
+    &lt;li class=&quot;alassek count-1&quot;&gt;
+
+        &lt;a href=&quot;https://github.com/alassek/&quot;&gt;
+
+            &lt;img src=&quot;https://gravatar.com/avatar/2a1bbd7c752e84764571f2e814f04259?d=https%3A%2F%2Fidenticons.github.com%2F1d5185083e4eb1c1b960a98994e08afc.png&amp;r=x&amp;s=80&quot; alt=&quot;Adam Lassek&quot;&gt;
+            &lt;span class=&quot;name&quot;&gt;Adam Lassek&lt;/span&gt;
+        &lt;/a&gt;
+
+        &lt;a href=&quot;https://github.com/alassek/&quot;&gt;&lt;i class=&quot;foundicon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;https://twitter.com/alassek/&quot;&gt;&lt;i class=&quot;foundicon-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+
+
+        &lt;a href=&quot;http://lyconic.com/blog&quot;&gt;Blog&lt;/a&gt;
+
+    &lt;/li&gt;
+
+&lt;/ol&gt;
+
+
+
+
+&lt;div class=&quot;fluid-width-video-wrapper&quot;&gt;&lt;iframe src=&quot;http://player.vimeo.com/video/14659274&quot; width=&quot;500&quot; height=&quot;375&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;Related&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/lyconic/jquery-omaha-meetup_09-01-2010&quot;&gt;Slides available on GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/nebraskajs/restful-web-services-with-sinatra-and-jquery-dot-rest&quot;&gt;Slides on Speaker Deck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meetup.com/nebraskajs/events/14421936/&quot;&gt;Event on Meetup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://vimeo.com/14659274&quot;&gt;Video on Vimeo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ 
+</feed>

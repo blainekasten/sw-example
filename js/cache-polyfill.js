@@ -1,4 +1,3 @@
-
 if (!Cache.prototype.add) {
   Cache.prototype.add = function add(request) {
     return this.addAll([request]);
@@ -18,10 +17,9 @@ if (!Cache.prototype.addAll) {
     NetworkError.prototype = Object.create(Error.prototype);
 
     return Promise.resolve().then(function() {
-      if (arguments.length < 1) throw new TypeError();
-      
-      // Simulate sequence<(Request or USVString)> binding:
-      var sequence = [];
+      if (arguments.length < 1) {
+        throw new TypeError();
+      }
 
       requests = requests.map(function(request) {
         if (request instanceof Request) {
